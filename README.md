@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Cấu Trúc Thư Mục Dự Án
+## Cấu Trúc Thư Mục Dự Án
 
 ```
 GaraMan/
